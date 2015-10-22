@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+    <set android:ordering="together" android:interpolator="@android:anim/linear_interpolator" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator android:valueType="floatType" android:valueTo="360" android:repeatMode="reverse" android:repeatCount="infinite" android:propertyName="rotation" android:duration="5000"/>
+
+</set>
